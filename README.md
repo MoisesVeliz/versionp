@@ -32,3 +32,18 @@ versionp minor
 versionp patch
 ```
 These commands will increment the major, minor, or patch version of your project, respectively.
+
+# Repository
+You can find the project on GitHub:
+
+<!-- README for NPM; the one for GitHub is in .github directory. -->
+
+<badges>
+
+<a brief description>
+
+Please refer to the [GitHub README](https://github.com/MoisesVeliz/versionp#readme) for full documentation.
+
+
+
+
