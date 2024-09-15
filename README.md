@@ -2,7 +2,8 @@
 Package for updating ionic, angular-capacitor projects
 
 # Install
-`npm install  -g vesup`
+`npm install versionp -g`
+`npm install versionp --save-dev`
 
 # Config
 ## Android
@@ -19,11 +20,11 @@ Package for updating ionic, angular-capacitor projects
 
 # Use
 ```
-vesup major
+versionp major
 ```
 ```
-vesup minor
+versionp minor
 ```
 ```
-vesup patch
+versionp patch
 ```

@@ -1,10 +1,10 @@
 {
-    "name": "vesup",
-    "version": "1.1.4",
+    "name": "versionp",
+    "version": "1.0.0",
     "description": "Un módulo para actualizar versiones en package.json, Android e iOS.",
-    "main": "bin/vesup.js",
+    "main": "bin/versionp.js",
     "bin": {
-        "vesup": "bin/vesup.js"
+        "versionp": "bin/versionp.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
