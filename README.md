@@ -4,16 +4,16 @@ Package for updating Ionic, Angular-Capacitor projects. This package allows you 
 # Installation
 You can install the package globally and as a development dependency using the following commands:
 
-´´´
+```bash
 npm install versionp -g
 npm install versionp --save-dev
-´´´
+```
 # Configuration
 
 ## Android
 To configure the package for Android, add the following configuration to your project's configuration file:
 
-´´´
+```bash
 {
     "files":[
         {
@@ -22,13 +22,13 @@ To configure the package for Android, add the following configuration to your pr
         }
     ]
 }
-´´´
+```
 # Usage
 You can use the package to update the version of your project using the following commands:
 
-´´´
+```bash
 versionp major
 versionp minor
 versionp patch
-´´´
+```
 These commands will increment the major, minor, or patch version of your project, respectively.
