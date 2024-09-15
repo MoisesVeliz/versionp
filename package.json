@@ -1,6 +1,6 @@
 {
     "name": "versionp",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "Un módulo para actualizar versiones en package.json, Android e iOS.",
     "main": "bin/versionp.js",
     "repository": "https://github.com/MoisesVeliz/versionp",
