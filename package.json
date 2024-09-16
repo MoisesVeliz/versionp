@@ -1,6 +1,6 @@
 {
     "name": "versionp",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "Un módulo para actualizar versiones en package.json, Android e iOS.",
     "main": "bin/versionp.js",
     "repository": {
