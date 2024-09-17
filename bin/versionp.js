@@ -17,7 +17,7 @@ if (fs.existsSync(configFilePath)) {
   configFile = { files: [] };
 }
 
-exec(`npm version ${argv._[0]} --no-git-tag-version`, (error, stdout, stderr) => {
+exec(`npm version ${argv._[0]}`, (error, stdout, stderr) => {
   if (error) {
     return console.log(error);
   }
