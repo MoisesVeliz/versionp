@@ -7,7 +7,7 @@ import fs, { readFileSync } from "fs";
 import path from "path";
 
 const argv = yargs(hideBin(process.argv)).argv;
-const configFilePath = path.resolve('./vupConfig.json');
+const configFilePath = path.resolve('./versionpConfig.json');
 
 let configFile;
 if (fs.existsSync(configFilePath)) {
